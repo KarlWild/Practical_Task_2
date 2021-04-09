@@ -1,5 +1,3 @@
-# Practical_Task_2
-
 # Java Base Libraries
 
 ## Цель работы:
